@@ -1,3 +1,14 @@
+
+* * *
+
+*DEPRECATED:* I'm archiving this repo. It was created with Vue-CLI 2.
+
+There is a **newer Vue-CLI 3 repo** available here:
+
+* https://github.com/nwutils/nw-vue-cli-example
+
+* * *
+
 # nw-vue
 
 > A Desktop App made with Vue.js and NW.js
